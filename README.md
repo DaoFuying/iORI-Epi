@@ -38,7 +38,7 @@ There are two main folders:
 - The folder "variable importance" contains K562 top 60 features according to variable importance.
 
 **References**
-Dao FY, Lv H, Fullwood MJ, Lin H. Accurate Identification of DNA Replication Origin by Fusing Epigenomics and Chromatin Interaction Information. Research (Wash D C). 2022 Oct 29;2022:9780293. doi: 10.34133/2022/9780293. PMID: 36405252; PMCID: PMC9667886.
+- Dao FY, Lv H, Fullwood MJ, Lin H. Accurate Identification of DNA Replication Origin by Fusing Epigenomics and Chromatin Interaction Information. Research (Wash D C). 2022 Oct 29;2022:9780293. doi: 10.34133/2022/9780293. PMID: 36405252; PMCID: PMC9667886.
 
 
 **Contact**:
