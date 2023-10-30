@@ -42,4 +42,4 @@ There are two main folders:
 
 
 **Contact**:
-fydao@std.uestc.edu.cn
+fuying.dao@ntu.edu.sg
